@@ -4,13 +4,13 @@
   "version": "1.0.0",
   "items": [
     {
-      "_id": "meshblu-connector-motion-pi",
+      "_id": "meshblu-connector-motion-rpi",
       "name": "Meshblu Connector Motion Pi",
       "description": "Meshblu Connector Motion Pi",
       "type": "device:motion-pi",
       "tags": ["Motion Pi"],
-      "githubSlug": "octoblu/meshblu-connector-motion-pi",
-      "createUri": "https://connector-factory.octoblu.com/connectors/create/octoblu/meshblu-connector-motion-pi",
+      "githubSlug": "octoblu/meshblu-connector-motion-rpi",
+      "createUri": "https://connector-factory.octoblu.com/connectors/create/octoblu/meshblu-connector-motion-rpi",
       "configureUri": "https://connector-factory.octoblu.com/things/configure/:uuid",
       "iconUri": "https://icons.octoblu.com/devices/generic.svg"
     }
